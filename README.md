@@ -4,6 +4,4 @@
 4. number of input branches
 5. transmit protocol
 6. number of all branches of all cells
-
-
-# simulate use django and three.js
+7. simulate use django and three.js
